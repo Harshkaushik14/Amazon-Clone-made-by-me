@@ -1,0 +1,15 @@
+.footer {
+  background-color: #232f3e;
+  position: sticky;
+}
+
+.footer > img {
+  padding-left: 30%;
+  cursor: pointer;
+}
+
+.My-name {
+  color: white;
+  justify-content: space-between;
+  padding-left: 10%;
+}
